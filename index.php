@@ -25,7 +25,7 @@
 
         }
 
-        echo "Hello $first $second  Greetings from BindAPI.";
+        echo "<h2>Hello $first $second Greetings from BindAPI.</h2>";
     
     ?>
 
