@@ -12,7 +12,7 @@
         <input type="text" name="second_name" placeholder="Second Name"><br><br>
         <button type="submit" name="submit">Send</button>
 
-        <h1></h1>
+        <h1>Hello</h1>
 
     </form>
 
